@@ -1,4 +1,4 @@
-# avitlin
+# avitalin
 # 💫 About Me:
 🚀 About Me<br>I'm a fresh Frontend Developer with a strong foundation in modern web technologies. <br>Passionate about creating responsive, user-friendly web applications and constantly learning new technologies.<br><br>💻 Tech Stack<br>Languages: HTML, CSS, JavaScript, React.js, Bootstrap<br><br>Tools & Technologies:<br>Git & GitHub<br>VS Code<br>npm<br>Chrome DevTools<br>Sigma(Basic)<br><br>🌱 Currently Learning:<br>TypeScript<br>Vue JS<br>JQuery<br><br>🎯 Projects:<br>1. Personal Portfolio Website<br>2. Youtube Channel Website<br>3. E-commerce Website<br><br>
 
